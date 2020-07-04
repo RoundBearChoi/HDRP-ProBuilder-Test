@@ -47,7 +47,7 @@ MonoBehaviour:
     m_Value: 0
   exposure:
     m_OverrideState: 1
-    m_Value: 1.5
+    m_Value: 3.82
   multiplier:
     m_OverrideState: 1
     m_Value: 12.95
@@ -187,7 +187,7 @@ MonoBehaviour:
     showEyeDropper: 1
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 1000
+    m_Value: 500
     min: 1
   enableVolumetricFog:
     m_OverrideState: 0
@@ -263,7 +263,7 @@ MonoBehaviour:
     m_Value: 1
   fixedExposure:
     m_OverrideState: 1
-    m_Value: 3.72
+    m_Value: 4.68
   compensation:
     m_OverrideState: 0
     m_Value: 0
@@ -326,19 +326,19 @@ MonoBehaviour:
   m_AdvancedMode: 0
   shadows:
     m_OverrideState: 1
-    m_Value: {r: 0.3679245, g: 0.3679245, b: 0.3679245, a: 1}
+    m_Value: {r: 0.509434, g: 0.509434, b: 0.509434, a: 1}
     hdr: 0
     showAlpha: 0
     showEyeDropper: 1
   highlights:
-    m_OverrideState: 0
-    m_Value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    m_OverrideState: 1
+    m_Value: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 1}
     hdr: 0
     showAlpha: 0
     showEyeDropper: 1
   balance:
     m_OverrideState: 0
-    m_Value: 100
+    m_Value: 4.1
     min: -100
     max: 100
 --- !u!114 &-2741987524740354888
@@ -357,7 +357,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   postExposure:
     m_OverrideState: 1
-    m_Value: -1.29
+    m_Value: -1.96
   contrast:
     m_OverrideState: 1
     m_Value: 3
@@ -552,7 +552,7 @@ MonoBehaviour:
     max: 1
   scatter:
     m_OverrideState: 1
-    m_Value: 0.2
+    m_Value: 0.455
     min: 0
     max: 1
   tint:
